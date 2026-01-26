@@ -1,3 +1,7 @@
+## ERD
+
+![ERD](./erd.png)
+
 ## Tech Stack
 
 | Category | Technology |
