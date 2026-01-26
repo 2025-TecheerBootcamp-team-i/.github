@@ -1,3 +1,9 @@
+## System Architechture
+![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/64f4956b-a5cc-4ed0-adce-6a99a4f71c53)
+
+![기술 중심 아키텍처 완성본 ](https://github.com/user-attachments/assets/9ef9e03f-ac31-4973-9593-c79eac69d951)
+
+
 ## ERD
 
 ![ERD](./erd.png)
