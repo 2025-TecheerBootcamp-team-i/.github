@@ -14,3 +14,8 @@
 | **AI Pipeline** | <img src="https://img.shields.io/badge/Meta%20Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Suno_API-000000?style=for-the-badge&logo=music&logoColor=white"/> <img src="https://img.shields.io/badge/Tailscale-181818?style=for-the-badge&logo=tailscale&logoColor=white"/> |
 | **Monitoring** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Flower-37ce02?style=for-the-badge&logo=celery&logoColor=white"/> |
 | **CI / CD** | <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> |
+
+
+## API
+
+<img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
