@@ -52,8 +52,62 @@
 | **CI / CD** | <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> |
 
 
-# 🔌 API
+# � How to Start
+
+### Clone Repository
+
+```bash
+$ git clone https://github.com/2025-TecheerBootcamp-team-i/Backend.git
+```
+
+### env setting in the Settings folder
+
+- settings/.env
+
+```text
+SECRET_KEY = 
+DEBUG = 
+DJANGO_ALLOWED_HOSTS = 
+
+SQL_ENGINE = 
+SQL_DATABASE = 
+SQL_USER = 
+SQL_PASSWORD = 
+SQL_HOST = 
+SQL_PORT = 
+
+CELERY_BROKER_URL = 
+
+WINDOWS_LLAMA_IP = 
+LLAMA_MODEL_NAME = 
+
+NGROK_AUTHTOKEN = 
+
+SUNO_API_URL = 
+SUNO_MODEL_VERSION = 
+SUNO_TEST_MODE = 
+SUNO_API_KEY = 
+SUNO_CALLBACK_URL = 
+
+OPENSEARCH_HOST = 
+OPENSEARCH_PORT = 
+OPENSEARCH_USERNAME = 
+OPENSEARCH_PASSWORD = 
+OPENSEARCH_USE_SSL = 
+OPENSEARCH_VERIFY_CERTS = 
+OPENSEARCH_INDEX_PREFIX = 
+
+AWS_ACCESS_KEY_ID = 
+AWS_SECRET_ACCESS_KEY = 
+AWS_STORAGE_BUCKET_NAME = 
+AWS_S3_REGION_NAME = 
+AWS_S3_CUSTOM_DOMAIN = 
+```
+
+# �🔌 API
 
 <img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
 
 # 📊 Monitoring
+
+
