@@ -152,7 +152,7 @@
 <a id="how-to-start"></a>
 # How to Start
 
-### Clone Repository
+### backend
 
 ```bash
 $ git clone https://github.com/2025-TecheerBootcamp-team-i/Backend.git
@@ -204,6 +204,14 @@ AWS_S3_CUSTOM_DOMAIN =
 ### docker
 ```text
 docker compose up -d --build
+```
+### frontend
+```bash
+$ git clone https://github.com/2025-TecheerBootcamp-team-i/Frontend.git
+```
+```text
+npm install
+npm run dev
 ```
 <br>
 
