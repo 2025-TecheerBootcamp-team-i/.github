@@ -77,7 +77,8 @@
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
 
-![System Architecture](../photo/architecture/system_architecture.png)
+![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/ad2de754-e6f5-44d2-9c53-80a20144bcb4)
+
 
 
 ![Tech Architecture](../photo/architecture/tech_architecture.png)
