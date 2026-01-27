@@ -82,16 +82,18 @@
 
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
-![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/64f4956b-a5cc-4ed0-adce-6a99a4f71c53)
 
-![기술 중심 아키텍처 완성본 ](https://github.com/user-attachments/assets/e43084bc-75d1-4129-bd65-955ce78f06d8)
+![System Architecture](photo/System_Architecture.png)
+
+
+![Tech Architecture](/photo/Tech_Architecture.png)
 <br><br>
 
 
 <a id="erd"></a>
 # 💾 ERD
 
-![ERD](./erd.png)
+![ERD](/photo/erd.png)
 <br><br>
 
 
