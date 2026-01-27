@@ -20,16 +20,18 @@
 <p align="center">세분화된 태그 시스템과 음원 분석을 통해, 방대한 음악 속에서 개인의 취향을 찾아가고 <br> AI음악 창작까지 경험할 수 있는 차별화된 음악 플랫폼</p>
 <br>
 
+
 # 🔗 Table of Contents 
-- [DEMO](#Demo)
-- [System Architecture](#System-Architecture)
-- [ERD](#ERD)
-- [Tech Stack](#Tech-Stack)
-- [Monitoring](#Monitoring)
-- [API](#API)
-- [How to Start](#How-to-Start)
-- [Member](#Member)
+- [DEMO](#demo)
+- [System Architecture](#system-architecture)
+- [ERD](#erd)
+- [Tech Stack](#tech-stack)
+- [Monitoring](#monitoring)
+- [API](#api)
+- [How to Start](#how-to-start)
+- [Member](#member)
 <br>
+
 
 
 # ℹ️ Introduction
@@ -50,6 +52,7 @@
 <br>
 
 
+<a id="demo"></a>
 # 🎵 DEMO
 
 ### | 홈 검색
@@ -73,10 +76,11 @@
 
 # 💡 Langchain & LMM 등
 
-(어필하고 싶은 프레임워크들)
+(어필하고 싶은 기술스택들)
 <br><br>
 
 
+<a id="system-architecture"></a>
 # 🏗️ System Architechture
 ![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/64f4956b-a5cc-4ed0-adce-6a99a4f71c53)
 
@@ -84,17 +88,19 @@
 <br><br>
 
 
+<a id="erd"></a>
 # 💾 ERD
 
 ![ERD](./erd.png)
 <br><br>
 
 
+<a id="tech-stack"></a>
 # 🛠️ Tech Stack
 
 | Category | Technology |
 | :--- | :--- |
-| **Frontend** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>  |
 | **Backend** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white"/> |
 | **Database & Search** | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/> |
 | **Infrastructure** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> |
@@ -105,6 +111,7 @@
 <br>
 
 
+<a id="monitoring"></a>
 # 📊 Monitoring
 
 ### Django
@@ -120,13 +127,18 @@
 <br><br>
 
 
+<<<<<<< HEAD
 
+=======
+<a id="api"></a>
+>>>>>>> 6e9a610a8f9a034168046f25a3b32a4cf14eaccd
 # 🔌 API
 
 <img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
 <br><br>
 
 
+<a id="how-to-start"></a>
 # How to Start
 
 ### Clone Repository
@@ -181,6 +193,7 @@ AWS_S3_CUSTOM_DOMAIN =
 <br>
 
 
+<a id="member"></a>
 # 🧑 Member
 
 | Name | 황현승 | 서두현 | 송영의 | 이재원 | 신영준 |
