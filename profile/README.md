@@ -20,16 +20,18 @@
 <p align="center">세분화된 태그 시스템과 음원 분석을 통해, 방대한 음악 속에서 개인의 취향을 찾아가고 <br> AI음악 창작까지 경험할 수 있는 차별화된 음악 플랫폼</p>
 <br>
 
+
 # 🔗 Table of Contents 
-- [DEMO](#Demo)
-- [System Architecture](#System-Architecture)
-- [ERD](#ERD)
-- [Tech Stack](#Tech-Stack)
-- [Monitoring](#Monitoring)
-- [API](#API)
-- [How to Start](#How-to-Start)
-- [Member](#Member)
+- [DEMO](#demo)
+- [System Architecture](#system-architecture)
+- [ERD](#erd)
+- [Tech Stack](#tech-stack)
+- [Monitoring](#monitoring)
+- [API](#api)
+- [How to Start](#how-to-start)
+- [Member](#member)
 <br>
+
 
 
 # ℹ️ Introduction
@@ -50,6 +52,7 @@
 <br>
 
 
+<a id="demo"></a>
 # 🎵 DEMO
 
 ### | 홈 검색
@@ -77,6 +80,7 @@
 <br><br>
 
 
+<a id="system-architecture"></a>
 # 🏗️ System Architechture
 ![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/64f4956b-a5cc-4ed0-adce-6a99a4f71c53)
 
@@ -84,12 +88,14 @@
 <br><br>
 
 
+<a id="erd"></a>
 # 💾 ERD
 
 ![ERD](./erd.png)
 <br><br>
 
 
+<a id="tech-stack"></a>
 # 🛠️ Tech Stack
 
 | Category | Technology |
@@ -105,17 +111,20 @@
 <br>
 
 
+<a id="monitoring"></a>
 # 📊 Monitoring
 
 <br><br>
 
 
+<a id="api"></a>
 # 🔌 API
 
 <img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
 <br><br>
 
 
+<a id="how-to-start"></a>
 # How to Start
 
 ### Clone Repository
@@ -170,6 +179,7 @@ AWS_S3_CUSTOM_DOMAIN =
 <br>
 
 
+<a id="member"></a>
 # 🧑 Member
 
 | Name | 황현승 | 서두현 | 송영의 | 이재원 | 신영준 |
