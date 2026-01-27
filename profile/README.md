@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-|이미지 넣을 곳|
+
 </p>
 
 
@@ -36,7 +36,7 @@
 
 # ℹ️ Introduction
 ### Demo URL
-> [Frontend](https://frontend-eosin-seven-18.vercel.app)
+> 
 
 ### Medium
 > [Muniverse Medium](https://medium.com/@SeoDDuu/muniverse-9b8a4786b3d5)
