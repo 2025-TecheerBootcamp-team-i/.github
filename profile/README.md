@@ -21,15 +21,17 @@
 <br>
 
 # 🔗 Table of Contents 
-- [DEMO](#-DEMO)
-- [System Architecture](#-System-Architecture)
-- [ERD](#-ERD)
-- [Tech Stack](#-Tech-Stack)
-- [Monitoring](#-Monitoring)
-- [API](#-API)
-- [How to Start](#-How to Start)
-- [Member](#-Member)
+- [DEMO](#demo)
+- [LangChain & LMM](#langchain-lmm)
+- [System Architecture](#system-architecture)
+- [ERD](#erd)
+- [Tech Stack](#tech-stack)
+- [Monitoring](#monitoring)
+- [API](#api)
+- [How to Start](#how-to-start)
+- [Member](#member)
 <br>
+
 
 # ℹ️ Introduction
 ### Demo URL
