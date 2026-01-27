@@ -83,17 +83,17 @@
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
 
-![System Architecture](/photo/system_architecture.png)
+![System Architecture](../photo/architecture/system_architecture.png)
 
 
-![Tech Architecture](/photo/tech_architecture.png)
+![Tech Architecture](../photo/architecture/tech_architecture.png)
 <br><br>
 
 
 <a id="erd"></a>
 # 💾 ERD
 
-![ERD](/photo/erd.png)
+![ERD](../photo/erd.png)
 <br><br>
 
 
