@@ -201,6 +201,9 @@ AWS_STORAGE_BUCKET_NAME =
 AWS_S3_REGION_NAME = 
 AWS_S3_CUSTOM_DOMAIN = 
 ```
+```text
+docker compose up -d --build
+```
 <br>
 
 
