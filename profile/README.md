@@ -19,6 +19,23 @@
 - [Member](#-Member)
 <br><br>
 
+# DEMO
+
+### 재생 및 분석
+![Adobe Express - 재생 및 분석](https://github.com/user-attachments/assets/a6e55986-42ba-456d-abce-8f4bb692a984)
+
+### 검색
+![검색](https://github.com/user-attachments/assets/0f1a6cce-604e-4061-9ef3-b809ee7f785d)
+
+### 비슷한 곡
+![비슷한곡](https://github.com/user-attachments/assets/4ccd8af1-54cd-4ad6-952c-71e01c7e7353)
+
+### 음악 생성
+![음악생성 (online-video-cutter com)](https://github.com/user-attachments/assets/db8f4153-f3e4-46b3-a54c-18f06543c48a)
+
+### 태그 탐색
+![태그탐색 2배](https://github.com/user-attachments/assets/f1b90a8a-1249-4b18-a21c-97847d1553eb)
+
 
 # 🎵 Service
 
