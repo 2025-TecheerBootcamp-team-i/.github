@@ -1,4 +1,4 @@
-### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
+![검색](https://github.com/user-attachments/assets/a203b157-503a-4faf-ad20-cafb99d3f533)### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
 
 # <img width="1816" height="581" alt="E83A0AB3-AD01-4CC4-9AAC-3C62A20C9691" src="https://github.com/user-attachments/assets/0cb67c4b-84fe-4544-9d0a-161d04524ddc" />
 
@@ -22,19 +22,19 @@
 # DEMO
 
 ### 재생 및 분석
-![Adobe Express - 재생 및 분석](https://github.com/user-attachments/assets/a6e55986-42ba-456d-abce-8f4bb692a984)
+![Adobe Express - 재생 및 분석](https://github.com/user-attachments/assets/02afa34c-d761-431d-bfd4-dfec26d07692)
 
 ### 검색
-![검색](https://github.com/user-attachments/assets/0f1a6cce-604e-4061-9ef3-b809ee7f785d)
+![검색](https://github.com/user-attachments/assets/14ec39a3-2680-4e25-b1ce-69ec5da36b58)
 
 ### 비슷한 곡
-![비슷한곡](https://github.com/user-attachments/assets/4ccd8af1-54cd-4ad6-952c-71e01c7e7353)
+![비슷한곡](https://github.com/user-attachments/assets/1dbdb2d2-c4d1-4c3a-a0b1-f43b9700f7e6)
 
 ### 음악 생성
-![음악생성 (online-video-cutter com)](https://github.com/user-attachments/assets/db8f4153-f3e4-46b3-a54c-18f06543c48a)
+![음악생성 (online-video-cutter com)](https://github.com/user-attachments/assets/d3016f85-4dc3-45a4-9352-2adba0ead21b)
 
 ### 태그 탐색
-![태그탐색 2배](https://github.com/user-attachments/assets/f1b90a8a-1249-4b18-a21c-97847d1553eb)
+![태그탐색 2배](https://github.com/user-attachments/assets/08cad6c9-84e5-4b72-815e-c3a6d098ebee)
 
 
 # 🎵 Service
