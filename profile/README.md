@@ -9,9 +9,16 @@
 
 <p align= center> (콘텐츠) 수많은 노래 속 자신의 취향을 찾아 떠나는 세계 </p>
 
-### 🔗 URL list
+### 🔗 Contents 
+- [Serivce](#Service)
+- [System Architecture](#system-architecture)
+- [Tech stack](#tech-stack)
+- [ERD](#erd)
+- [Monitoring](#monitoring)
+- [API](#api)
+- [Member](#member)
+<br><br>
 
-+ 콘텐츠 순서 및 Media URL 추가
 
 # 🎵 Service
 
@@ -118,7 +125,7 @@ AWS_S3_CUSTOM_DOMAIN =
 ```
 
 
-# 🧑 MEMBER
+# 🧑 Member
 
 | Name | 황현승 | 서두현 | 송영의 | 이재원 | 신영준 |
 | :--: | :----: | :----: | :----: | :----: | :----: |
