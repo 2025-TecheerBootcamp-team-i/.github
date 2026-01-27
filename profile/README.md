@@ -83,10 +83,10 @@
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
 
-![System Architecture](/photo/System_Architecture.png)
+![System Architecture](/photo/system_architecture.png)
 
 
-![Tech Architecture](/photo/Tech_Architecture.png)
+![Tech Architecture](/photo/tech_architecture.png)
 <br><br>
 
 
@@ -158,7 +158,7 @@
 $ git clone https://github.com/2025-TecheerBootcamp-team-i/Backend.git
 ```
 
-### env setting in the Settings folder
+### env setting
 
 - settings/.env
 
@@ -201,6 +201,7 @@ AWS_STORAGE_BUCKET_NAME =
 AWS_S3_REGION_NAME = 
 AWS_S3_CUSTOM_DOMAIN = 
 ```
+### docker
 ```text
 docker compose up -d --build
 ```
