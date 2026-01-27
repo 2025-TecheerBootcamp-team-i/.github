@@ -114,24 +114,33 @@
 <a id="monitoring"></a>
 # 📊 Monitoring
 
-### Django
-![Django](../photo/mornitoring/django1.png) ![Django](../photo/mornitoring/django2.png)
-<br>
-
-### cAdvisor
-![cAdvisor](../photo/mornitoring/cAdvisor1.png) ![cAdvisor](../photo/mornitoring/cAdvisor2.png)
-<br>
-
-### Node Exporter
-![Node Exporter](../photo/mornitoring/node_exporter1.png) ![Node Exporter](../photo/mornitoring/node_exporter2.png)
+<table width="100%">
+  <tr>
+    <th align="center" colspan="2">Django</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="../photo/mornitoring/django1.png" width="100%"></td>
+    <td width="50%"><img src="../photo/mornitoring/django2.png" width="100%"></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">cAdvisor</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="../photo/mornitoring/cAdvisor1.png" width="100%"></td>
+    <td width="50%"><img src="../photo/mornitoring/cAdvisor2.png" width="100%"></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">Node Exporter</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="../photo/mornitoring/node_exporter1.png" width="100%"></td>
+    <td width="50%"><img src="../photo/mornitoring/node_exporter2.png" width="100%"></td>
+  </tr>
+</table>
 <br><br>
 
 
-<<<<<<< HEAD
-
-=======
 <a id="api"></a>
->>>>>>> 6e9a610a8f9a034168046f25a3b32a4cf14eaccd
 # 🔌 API
 
 <img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
