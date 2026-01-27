@@ -83,7 +83,7 @@
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
 
-![System Architecture](photo/System_Architecture.png)
+![System Architecture](/photo/System_Architecture.png)
 
 
 ![Tech Architecture](/photo/Tech_Architecture.png)
