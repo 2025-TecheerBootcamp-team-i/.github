@@ -82,16 +82,28 @@
 
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
+<<<<<<< HEAD
 ![System Architecture](../photo/architecture/System%20Architecture.png)
 
 ![Tech Architecture](../photo/architecture/Tech%20Architecture.png)
+=======
+
+![System Architecture](/photo/System_Architecture.png)
+
+
+![Tech Architecture](/photo/Tech_Architecture.png)
+>>>>>>> 9494b2dc159834cf12f1e5d03ea061fe06e24b8c
 <br><br>
 
 
 <a id="erd"></a>
 # 💾 ERD
 
+<<<<<<< HEAD
 ![ERD](../photo/erd.png)
+=======
+![ERD](/photo/erd.png)
+>>>>>>> 9494b2dc159834cf12f1e5d03ea061fe06e24b8c
 <br><br>
 
 
