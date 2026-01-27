@@ -161,6 +161,5 @@ AWS_S3_CUSTOM_DOMAIN =
 
 | Name | 황현승 | 서두현 | 송영의 | 이재원 | 신영준 |
 | :--: | :----: | :----: | :----: | :----: | :----: |
-| Profile | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> |
-| Role | Team Leader<br/><br/> | <br/> | <br/> | <br/> | <br/> |
+| Profile | <a href="https://github.com/hhyunseung1216"><img src="https://avatars.githubusercontent.com/u/144646822?v=4" width="100"></a> | <a href="https://github.com/SeoDoo"><img src="https://avatars.githubusercontent.com/u/150519615?v=4" width="100"></a> | <a href="https://github.com/youngiue"><img src="https://avatars.githubusercontent.com/u/198860390?v=4" width="100"></a> | <a href="https://github.com/jaaewon"><img src="https://avatars.githubusercontent.com/u/58101761?v=4" width="100"></a> | <a href="https://github.com/YoungJune-02"><img src="https://avatars.githubusercontent.com/u/251961788?v=4" width="100"></a> | <br/> | <br/> | <br/> | <br/> |
 | GitHub | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> |
