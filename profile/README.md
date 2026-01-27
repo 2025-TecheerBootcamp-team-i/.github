@@ -52,7 +52,17 @@
 | **CI / CD** | <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> |
 
 
-# � How to Start
+
+
+# 📊 Monitoring
+
+
+
+# 🔌 API
+
+<img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
+
+# How to Start
 
 ### Clone Repository
 
@@ -103,11 +113,3 @@ AWS_STORAGE_BUCKET_NAME =
 AWS_S3_REGION_NAME = 
 AWS_S3_CUSTOM_DOMAIN = 
 ```
-
-# �🔌 API
-
-<img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
-
-# 📊 Monitoring
-
-
