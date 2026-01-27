@@ -107,7 +107,18 @@
 
 # 📊 Monitoring
 
+### Django
+![Django](../photo/mornitoring/django1.png) ![Django](../photo/mornitoring/django2.png)
+<br>
+
+### cAdvisor
+![cAdvisor](../photo/mornitoring/cAdvisor1.png) ![cAdvisor](../photo/mornitoring/cAdvisor2.png)
+<br>
+
+### Node Exporter
+![Node Exporter](../photo/mornitoring/node_exporter1.png) ![Node Exporter](../photo/mornitoring/node_exporter2.png)
 <br><br>
+
 
 
 # 🔌 API
