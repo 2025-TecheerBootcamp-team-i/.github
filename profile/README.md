@@ -1,13 +1,23 @@
 ### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
 
-# <img width="1816" height="581" alt="E83A0AB3-AD01-4CC4-9AAC-3C62A20C9691" src="https://github.com/user-attachments/assets/0cb67c4b-84fe-4544-9d0a-161d04524ddc" />
-
-
 <p align="center">
-![Homepage](asset/home.png)
+  <a href="https://github.com/your_repo">
+    <img
+      src="https://github.com/user-attachments/assets/0cb67c4b-84fe-4544-9d0a-161d04524ddc"
+      width="400"
+      style="height:auto;"
+      alt="E83A0AB3-AD01-4CC4-9AAC-3C62A20C9691"
+    />
+  </a>
 </p>
 
-<p align= center> (콘텐츠) 수많은 노래 속 자신의 취향을 찾아 떠나는 세계 </p>
+<p align="center">
+|이미지 넣을 곳|
+</p>
+
+
+<p align="center"><strong>Music + Universe</strong></p>
+<p align="center">세분화된 태그 시스템과 음원 분석을 통해, 방대한 음악 속에서 개인의 취향을 찾아가고 <br> AI음악 창작까지 경험할 수 있는 차별화된 음악 플랫폼</p>
 
 # 🔗 Table of Contents 
 - [Service](#-Service)
@@ -24,11 +34,11 @@
   
 - Medium
 
+
 * **개인 음악 분석:** 청취 시간·AI 생성 내역·TOP 장르/아티스트·분위기/키워드·실시간 나의 TOP 차트를 한눈에 확인.
 * **음원별 상세 분석:** 감정 분석·시간대별 재생 패턴·유사 음악·태그 반응까지 곡 단위로 깊게 파악.
 * **태그 검색 및 탐색(MusicVerse):** 54개 태그 기반으로 취향에 맞는 곡을 발견하고 분위기 있게 탐색/청취.
 * **AI 음악 생성:** 원하는 느낌을 입력해 AI 곡을 만들고, 플랫폼에 게시해 공유/스트리밍.
-* **스트리밍 기본 기능:** 좋아요(곡/앨범/플리)·개인 플레이리스트·아티스트/AI 곡 검색 등 핵심 플레이어 기능 제공.
 * **차트:** 실시간 TOP100·일일 차트·AI 음악 차트로 트렌드와 인기곡을 빠르게 탐색.
 * **태그 스테이션:** 태그 기반 스테이션으로 장르/무드별 빠른 선곡과 연속 재생으로 취향 확장.
 
