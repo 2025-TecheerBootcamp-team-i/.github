@@ -17,7 +17,7 @@
 
 
 <p align="center"><strong>Music + Universe</strong></p>
-<p align="center">세분화된 태그 시스템과 음원 분석을 통해, 방대한 음악 속에서 개인의 취향을 찾아가고 <br> AI음악 창작까지 경험할 수 있는 차별화된 음악 플랫폼</p>
+<p align="center">세분화된 태그 시스템과 음원 분석을 통해, 방대한 음악 속에서 개인의 취향을 찾아가고 <br> AI 음악 창작까지 경험할 수 있는 차별화된 음악 플랫폼</p>
 <br>
 
 
