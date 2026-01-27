@@ -21,12 +21,13 @@
 <br>
 
 # 🔗 Table of Contents 
-- [Service](#-Service)
+- [DEMO](#-DEMO)
 - [System Architecture](#-System-Architecture)
-- [Tech Stack](#-Tech-Stack)
 - [ERD](#-ERD)
+- [Tech Stack](#-Tech-Stack)
 - [Monitoring](#-Monitoring)
 - [API](#-API)
+- [How to Start](#-How to Start)
 - [Member](#-Member)
 <br>
 
