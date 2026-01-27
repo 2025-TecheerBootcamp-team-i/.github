@@ -1,7 +1,5 @@
 ### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
 
-### 🔗 URL list
-
 # <img width="1816" height="581" alt="E83A0AB3-AD01-4CC4-9AAC-3C62A20C9691" src="https://github.com/user-attachments/assets/0cb67c4b-84fe-4544-9d0a-161d04524ddc" />
 
 
@@ -10,6 +8,10 @@
 </p>
 
 <p align= center> (콘텐츠) 수많은 노래 속 자신의 취향을 찾아 떠나는 세계 </p>
+
+### 🔗 URL list
+
++ 콘텐츠 순서 및 Media URL 추가
 
 # 🎵 Service
 
@@ -114,3 +116,12 @@ AWS_STORAGE_BUCKET_NAME =
 AWS_S3_REGION_NAME = 
 AWS_S3_CUSTOM_DOMAIN = 
 ```
+
+
+# 🧑 MEMBER
+
+| Name | 황현승 | 서두현 | 송영의 | 이재원 | 신영준 |
+| :--: | :----: | :----: | :----: | :----: | :----: |
+| Profile | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> | <img width="100" height="110" src="" /> |
+| Role | Team Leader<br/><br/> | <br/> | <br/> | <br/> | <br/> |
+| GitHub | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> | <a href=""><img src="" /></a> |
