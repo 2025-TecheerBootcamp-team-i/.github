@@ -1,4 +1,4 @@
-![검색](https://github.com/user-attachments/assets/a203b157-503a-4faf-ad20-cafb99d3f533)### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
+### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
 
 # <img width="1816" height="581" alt="E83A0AB3-AD01-4CC4-9AAC-3C62A20C9691" src="https://github.com/user-attachments/assets/0cb67c4b-84fe-4544-9d0a-161d04524ddc" />
 
@@ -35,6 +35,9 @@
 
 # 🎵 DEMO
 
+### | 홈 검색
+![검색](https://github.com/user-attachments/assets/a203b157-503a-4faf-ad20-cafb99d3f533)
+
 ### | 재생 및 분석
 ![Adobe Express - 재생 및 분석](https://github.com/user-attachments/assets/02afa34c-d761-431d-bfd4-dfec26d07692)
 
@@ -54,7 +57,7 @@
 # 🏗️ System Architechture
 ![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/64f4956b-a5cc-4ed0-adce-6a99a4f71c53)
 
-![기술 중심 아키텍처 완성본 ](https://github.com/user-attachments/assets/9ef9e03f-ac31-4973-9593-c79eac69d951)
+![기술 중심 아키텍처 완성본 ](https://github.com/user-attachments/assets/e43084bc-75d1-4129-bd65-955ce78f06d8)
 
 
 # 💡 Langchain & LMM 등
