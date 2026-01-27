@@ -9,7 +9,7 @@
 ![Homepage](asset/home.png)
 </p>
 
-<p align= center> (콘텐츠) 수많은 노래 속 자신의 취향을 찾아 떠는 세계 </p>
+<p align= center> (콘텐츠) 수많은 노래 속 자신의 취향을 찾아 떠나는 세계 </p>
 
 # 🎵 Service
 
