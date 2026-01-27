@@ -74,12 +74,6 @@
 <img src="https://github.com/user-attachments/assets/08cad6c9-84e5-4b72-815e-c3a6d098ebee" width="1800" />
 
 
-# 💡 Langchain & LMM 등
-
-(어필하고 싶은 기술스택들)
-<br><br>
-
-
 <a id="system-architecture"></a>
 # 🏗️ System Architechture
 
