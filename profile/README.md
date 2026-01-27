@@ -1,14 +1,44 @@
-## 🏗️ System Architechture
+### <p align = center> 2025 Techeer Summer BootCamp-i 팀 <p>
+
+### 🔗 URL list
+
+# ![Muniverse](asset/muniverse.png)
+
+<p align="center">
+![Homepage](asset/home.png)
+</p>
+
+<p align= center> (콘텐츠) 수많은 노래 속 자신의 취향을 찾아 떠는 세계 </p>
+
+# 🎵 Service
+
+| 홈화면
+
+<br><br>
+| 검색
+
+<br><br>
+| AI 음악 생성
+
+<br><br>
+
+# 🏗️ System Architechture
 ![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/64f4956b-a5cc-4ed0-adce-6a99a4f71c53)
 
 ![기술 중심 아키텍처 완성본 ](https://github.com/user-attachments/assets/9ef9e03f-ac31-4973-9593-c79eac69d951)
 
 
-## 💾 ERD
+# 💡 Langchain & LMM 등
+
+(어필하고 싶은 프레임워크들)
+
+
+# 💾 ERD
 
 ![ERD](./erd.png)
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 
 | Category | Technology |
@@ -22,8 +52,8 @@
 | **CI / CD** | <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> |
 
 
-## 🔌 API
+# 🔌 API
 
 <img width="2946" height="6990" alt="SCR-20260127-bjcp" src="https://github.com/user-attachments/assets/8ea6b962-0f12-4d9d-a6d5-26a56e999d17" />
 
-## 📊 Monitoring
+# 📊 Monitoring
