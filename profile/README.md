@@ -80,8 +80,9 @@
 ![테커 I 팀 시스템 아키텍처의 1월 27일 최종봄](https://github.com/user-attachments/assets/ad2de754-e6f5-44d2-9c53-80a20144bcb4)
 
 
+![기술 중심 아키텍처 최종본](https://github.com/user-attachments/assets/25902f5d-fe60-4ca2-832d-225c76ecdcf3)
 
-![Tech Architecture](../photo/architecture/tech_architecture.png)
+
 <br><br>
 
 
