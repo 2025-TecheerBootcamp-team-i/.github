@@ -40,6 +40,9 @@
 
 ### Medium
 > [Muniverse Medium](https://medium.com/@SeoDDuu/muniverse-9b8a4786b3d5)
+
+### 발표 링크
+> https://www.youtube.com/watch?v=ExmYixVa0_Y&list=PLo5_LnrAlgO8fJZ5hYUqVJApjxp9LmzHW&index=6
 <br>
 
 
