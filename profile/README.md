@@ -22,6 +22,7 @@
 
 
 # 🔗 Table of Contents 
+- [Introduction] (#introduction)
 - [DEMO](#demo)
 - [System Architecture](#system-architecture)
 - [ERD](#erd)
