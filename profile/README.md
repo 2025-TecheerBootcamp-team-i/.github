@@ -22,7 +22,7 @@
 
 
 # 🔗 Table of Contents 
-- [Introduction] (#introduction)
+- [Introduction](#introduction)
 - [DEMO](#demo)
 - [System Architecture](#system-architecture)
 - [ERD](#erd)
@@ -36,6 +36,7 @@
 
 <a id="introduction"></a>
 # ℹ️ Introduction
+
 ### Demo URL
 > https://www.brokencarrot.my/
 
